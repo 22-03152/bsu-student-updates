@@ -1,12 +1,9 @@
 {
-  "version": "1.0.0",
-  "apkUrl": "",
-  "releaseDate": "2025-05-28",
+  "version": "1.1.0",
+  "apkUrl": "https://github.com/22-03152/bsu-student-updates/releases/download/v1.1.0/app-debug.apk",
+  "releaseDate": "2026-04-28",
   "changelog": [
-    "Initial release of BSU Student Portal",
-    "Grades and enrollment records",
-    "Digital ID and QR Code viewer",
-    "Campus Chronicles"
+    "App Updates with auto-download"
   ],
   "upcoming": []
 }
